@@ -1,0 +1,8 @@
+@import "./main.css";
+@import "./reset.css";
+@import "./nav.css";
+
+body {
+  font-family: "Kotta One", serif;
+  overflow: hidden;
+}

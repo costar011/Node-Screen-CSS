@@ -1,0 +1,55 @@
+.super {
+  background-color: lightyellow;
+  width: 95vw;
+  height: 88vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px;
+  overflow: hidden;
+}
+
+.super__up {
+  background-color: lightpink;
+  width: 40vw;
+  height: 84vh;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.super .super__top {
+  background-color: lightsalmon;
+  width: 85vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.super .super__middle {
+  background-color: lightskyblue;
+  width: 84vw;
+  height: 30vh;
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  padding: 10px;
+}
+
+.super .super__footer {
+  background-color: lightblue;
+  width: 84vw;
+  height: 30vh;
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  padding: 10px;
+}
+
+.super .super__footer-1 {
+  background-color: lightcoral;
+  width: 85vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
